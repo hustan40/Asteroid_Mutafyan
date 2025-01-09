@@ -21,3 +21,5 @@ MaxScore - Выводит в начале игры максмимально до
 ![image](https://github.com/hustan40/GameBox_Mutafyan/assets/159728816/f4c3d4bc-f1c4-4cf5-8947-f214fabdfddb)
 ![image](https://github.com/hustan40/GameBox_Mutafyan/assets/159728816/3655293a-a7ca-4e64-847d-66c5ddc8da26)
 ![image](https://github.com/hustan40/GameBox_Mutafyan/assets/159728816/7eff8bf8-40ee-4a2e-99cc-afa811bbbbe6)
+
+Геймплей: https://youtu.be/m5OOXgm9WfY
